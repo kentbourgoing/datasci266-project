@@ -1,7 +1,0 @@
-toxicity_gen: 4.63737820427923e-05
-toxicity_orig: 4.5390266659524056e-05
-perplexity_gen: nan
-perplexity_orig: nan
-bertscore: 0.9588657096028328
-meaningbert: 89.37297463417053
-bleu4: 1.210058155197702
