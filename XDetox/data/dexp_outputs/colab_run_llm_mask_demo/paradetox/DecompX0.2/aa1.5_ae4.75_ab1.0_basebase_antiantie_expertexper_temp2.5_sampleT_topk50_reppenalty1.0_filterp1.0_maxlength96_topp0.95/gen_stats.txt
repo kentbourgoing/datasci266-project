@@ -1,9 +1,0 @@
-bertscore: 0.92485
-meaningbert: 67.868
-bleu4: 67.626
-toxicity gen: 0.067722
-perplexity gen: 73.074
-toxicity orig: 0.99609
-perplexity orig: 625.78
-percent toxic gen: 0
-percent toxic ref: 1
